@@ -1,0 +1,15 @@
+Proqramlaşdırma nədir?
+Proqramlaşdırma müəyyən əməliyyatları yerinə yetirəcək dijital kodların yazılmasıdır.
+
+Software nədir?
+Software kompüterləri işə salmaq və müəyyən vəzifələri yerinə yetirmək üçün istifadə olunan təlimatlar və ya proqramlar toplusudur.
+
+
+Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan? 
+
+Paradiqmalarının sayına görə,yəni
+1.Prosedur proqramlaşdırma paradiqmasını dəstəkləyən
+2.Obyekt yönümlü paradiqmanı dəstəkləyən
+3.Paralel emal yanaşmasını dəstəkləyən 
+4.Məntiq proqramlaşdırma paradiqmasını dəstəkləyən 
+5.Funksional proqramlaşdırma paradiqmasını dəstəkləyən dillər
